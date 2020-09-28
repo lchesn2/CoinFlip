@@ -33,8 +33,6 @@ cout<< "Tails: "<< countTails << endl;
 
 cout<< endl;
 
-
-
 }
 int main(){
 
@@ -69,19 +67,7 @@ bool validAnswer = false;
                 break;
         }
 
-
-
     }while (!validAnswer);
-
-
-
-
-
-
-
-
-
-
 
 return 0;
 }
